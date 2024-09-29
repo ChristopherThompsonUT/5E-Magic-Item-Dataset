@@ -1,5 +1,5 @@
 # magic-item-data-storage
-CSV files of magic items based on the rules of Dungeons and Dragons 5e. This will be used for our GPT based magic item generator
+CSV files of magic items based on the rules of Dungeons and Dragons 5e. 
 
 ## Total Magic Items: 15677 ## 
 
