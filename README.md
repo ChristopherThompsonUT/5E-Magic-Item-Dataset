@@ -86,3 +86,5 @@ To preserve some structure in the magic item descriptions, the following charact
 **Bulleted Lists** - Bulleted lists will be preceded with a \*. For example, if a magic item has the bullet point " * Shield" in it, it will be formatted as \*Shield.
 
 **Tables** - Tables are to be preceeded and succeeded with a set of brackets `[]`. Each row is to be preceeded and succeeded with a set of brackets `[]`. Finally, each table cell is to be preceeded and succeeded with a set of brackets `[]`. An example is given in the below image. 
+
+![Table Layout Image](https://github.com/ChristopherThompsonUT/5E-Magic-Item-Dataset/blob/main/Table_Example.png)
