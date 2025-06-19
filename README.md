@@ -1,7 +1,7 @@
 # magic-item-data-storage
 CSV files of magic items based on the rules of Dungeons and Dragons 5e. 
 
-## Total Magic Items: 15677 ## 
+## Total Magic Items: 17188 ## 
 
 # Data Formatting Guidelines #
 ## Magic Item Data ##
